@@ -1,3 +1,4 @@
+![] 
 - 👋 Hi, I’m @Gato-astro
 - #sobre mim **ASTRO**
 - ## *stainwegvanhuy_the hedgehog*
